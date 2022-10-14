@@ -1,0 +1,22 @@
+.body_backgorund {
+    background-image: url("https://pbs.twimg.com/profile_images/493843506817822720/OMnRYv4v_400x400.jpeg ");
+    background-position: center;
+    background-size: cover;
+  }
+  h1
+  {
+      color: red; 
+      font-size: 40px;
+  }
+  
+  #myCanvas
+  {
+      border-width:10px;
+      background-color: white; 
+      border-style:ridge;
+  }
+  span
+  {
+      font-size: 20px;
+  }
+  
